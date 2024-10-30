@@ -43,11 +43,15 @@ sidenav a {
   display: block;
 }
 
-<!--
-sidenav a:hover {
-  color: #568ea6;
+sidenav b {
+  padding: 6px 8px 6px 16px;
+  text-decoration: none;
+  font-style: italic;
+  font-size: 15px;
+  color: #202020;
+  display: block;
 }
--->
+
 
 img {
   border-radius: 50%;
