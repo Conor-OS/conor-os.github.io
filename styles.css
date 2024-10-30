@@ -6,7 +6,6 @@ body {
 }
 
 header {
-    margin-left: 200px;
     background: #007BFF;
     color: white;
     padding: 20px;
@@ -14,7 +13,6 @@ header {
 }
 
 nav ul {
-    margin-left: 200px;
     list-style: none;
     padding: 0;
 }
@@ -58,7 +56,6 @@ section {
 }
 
 footer {
-    margin-left: 200px;
     text-align: center;
     padding: 10px;
     background: #007BFF;
