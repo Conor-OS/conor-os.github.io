@@ -35,6 +35,16 @@ sidenav {
   text-align: center;
 }
 
+sidenav d {
+  padding: 6px 8px 6px 16px;
+  text-decoration: none;
+  font-size: 28px;
+  color: #202020;
+  font-style: bold;
+  display: block;
+}
+
+
 sidenav a {
   padding: 6px 8px 6px 16px;
   text-decoration: none;
@@ -59,14 +69,6 @@ sidenav c {
   display: block;
 }
 
-sidenav d {
-  padding: 6px 8px 6px 16px;
-  text-decoration: none;
-  font-size: 28px;
-  color: #202020;
-  font-style: bold;
-  display: block;
-}
 
 
 img {
