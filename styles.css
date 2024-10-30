@@ -43,10 +43,11 @@ sidenav a {
   display: block;
 }
 
+<!--
 sidenav a:hover {
   color: #568ea6;
 }
-
+-->
 
 img {
   border-radius: 50%;
