@@ -1,6 +1,6 @@
 body {
     font-family: Arial, sans-serif;
-    margin-left: 200px;
+    margin-left: 300px;
     padding: 20px;
     background-color: #f1d1b5;
 }
@@ -24,7 +24,7 @@ nav ul li {
 
 sidenav {
   height: 100%;
-  width: 200px;
+  width: 300px;
   position: fixed;
   z-index: 1;
   top: 0;
@@ -52,7 +52,6 @@ section {
     margin-left: 200px;
     padding: 20px;
     background: white;
-    margin: 15px;
 }
 
 footer {
