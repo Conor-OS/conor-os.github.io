@@ -29,7 +29,7 @@ sidenav {
   z-index: 1;
   top: 0;
   left: 0;
-  background-color: #818181;
+  background-color: #fff1e0;
   overflow-x: hidden;
   padding-top: 20px;
 }
@@ -38,7 +38,7 @@ sidenav a {
   padding: 6px 8px 6px 16px;
   text-decoration: none;
   font-size: 25px;
-  color: #fff1e0;
+  color: #818181;
   display: block;
 }
 
